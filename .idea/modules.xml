@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/reactjstryout.iml" filepath="$PROJECT_DIR$/.idea/reactjstryout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/what-to-stream.iml" filepath="$PROJECT_DIR$/.idea/what-to-stream.iml" />
     </modules>
   </component>
 </project>
